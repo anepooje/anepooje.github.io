@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://anepooje.github.io/sitemap_index.anepooje
